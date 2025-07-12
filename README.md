@@ -1,0 +1,1 @@
+Here is the source code for the genetic algorithm in the article 'Genetically Grouped Atmospheric Transmissivity Weighted Multi-Group Wide-Band k-Distribution Model for Remote Infrared Sensing' on the 'Remote Sensing' journal.
